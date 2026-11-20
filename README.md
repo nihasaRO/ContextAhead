@@ -160,4 +160,6 @@ Crash logs are in `GARMIN\APPS\LOGS\CIQ_LOG.YML`. Map them with the `.prg.debug.
 - **Data:** Open-Meteo.com (CC BY 4.0); CAMS.
 - **Trademarks:** Garmin, Instinct and Connect IQ are trademarks of Garmin Ltd. This project is not affiliated with or endorsed by Garmin.
 
+If you publish your own version: generate a new app ID (a new UUID in manifest.xml) so it doesn't clash with Solar Frontier in the Connect IQ store, use your own developer key, and keep the licence notices.
+
 Written with the help of AI assistants (Anthropic's Claude).
