@@ -1,0 +1,75 @@
+<settings>
+    <setting propertyKey="@Properties.k0" title="@Strings.st0">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.so0_0</listEntry>
+            <listEntry value="1">@Strings.so0_1</listEntry>
+            <listEntry value="2">@Strings.so0_2</listEntry>
+            <listEntry value="3">@Strings.so0_3</listEntry>
+            <listEntry value="4">@Strings.so0_4</listEntry>
+            <listEntry value="5">@Strings.so0_5</listEntry>
+            <listEntry value="6">@Strings.so0_6</listEntry>
+            <listEntry value="7">@Strings.so0_7</listEntry>
+            <listEntry value="8">@Strings.so0_8</listEntry>
+            <listEntry value="9">@Strings.so0_9</listEntry>
+            <listEntry value="10">@Strings.so0_10</listEntry>
+            <listEntry value="11">@Strings.so0_11</listEntry>
+            <listEntry value="12">@Strings.so0_12</listEntry>
+            <listEntry value="13">@Strings.so0_13</listEntry>
+            <listEntry value="14">@Strings.so0_14</listEntry>
+            <listEntry value="15">@Strings.so0_15</listEntry>
+        </settingConfig>
+    </setting>
+    <setting propertyKey="@Properties.k1" title="@Strings.st1">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.so1_0</listEntry>
+            <listEntry value="1">@Strings.so1_1</listEntry>
+            <listEntry value="2">@Strings.so1_2</listEntry>
+            <listEntry value="3">@Strings.so1_3</listEntry>
+            <listEntry value="4">@Strings.so1_4</listEntry>
+            <listEntry value="5">@Strings.so1_5</listEntry>
+            <listEntry value="6">@Strings.so1_6</listEntry>
+            <listEntry value="7">@Strings.so1_7</listEntry>
+            <listEntry value="8">@Strings.so1_8</listEntry>
+            <listEntry value="9">@Strings.so1_9</listEntry>
+        </settingConfig>
+    </setting>
+    <setting propertyKey="@Properties.k2" title="@Strings.st2">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.so2_0</listEntry>
+            <listEntry value="1">@Strings.so2_1</listEntry>
+            <listEntry value="2">@Strings.so2_2</listEntry>
+        </settingConfig>
+    </setting>
+    <setting propertyKey="@Properties.k3" title="@Strings.st3">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.so3_0</listEntry>
+            <listEntry value="1">@Strings.so3_1</listEntry>
+            <listEntry value="2">@Strings.so3_2</listEntry>
+            <listEntry value="3">@Strings.so3_3</listEntry>
+            <listEntry value="4">@Strings.so3_4</listEntry>
+            <listEntry value="5">@Strings.so3_5</listEntry>
+            <listEntry value="6">@Strings.so3_6</listEntry>
+            <listEntry value="7">@Strings.so3_7</listEntry>
+            <listEntry value="8">@Strings.so3_8</listEntry>
+        </settingConfig>
+    </setting>
+    <setting propertyKey="@Properties.k4" title="@Strings.st4">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.so4_0</listEntry>
+            <listEntry value="1">@Strings.so4_1</listEntry>
+        </settingConfig>
+    </setting>
+    <setting propertyKey="@Properties.k5" title="@Strings.st5">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.so5_0</listEntry>
+            <listEntry value="1">@Strings.so5_1</listEntry>
+        </settingConfig>
+    </setting>
+    <setting propertyKey="@Properties.k6" title="@Strings.st6">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.so6_0</listEntry>
+            <listEntry value="1">@Strings.so6_1</listEntry>
+            <listEntry value="2">@Strings.so6_2</listEntry>
+        </settingConfig>
+    </setting>
+</settings>

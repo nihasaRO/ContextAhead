@@ -1,0 +1,61 @@
+<strings>
+    <string id="st0" scope="settings">Circle</string>
+    <string id="so0_0" scope="settings">Date</string>
+    <string id="so0_1" scope="settings">Weather now</string>
+    <string id="so0_2" scope="settings">Pressure</string>
+    <string id="so0_3" scope="settings">Moon</string>
+    <string id="so0_4" scope="settings">Steps</string>
+    <string id="so0_5" scope="settings">Intensity today</string>
+    <string id="so0_6" scope="settings">Intensity week</string>
+    <string id="so0_7" scope="settings">Heart rate</string>
+    <string id="so0_8" scope="settings">Body Battery</string>
+    <string id="so0_9" scope="settings">Stress</string>
+    <string id="so0_10" scope="settings">Altitude</string>
+    <string id="so0_11" scope="settings">Battery days</string>
+    <string id="so0_12" scope="settings">Solar intensity</string>
+    <string id="so0_13" scope="settings">Notifications</string>
+    <string id="so0_14" scope="settings">Seconds (wrist raise)</string>
+    <string id="so0_15" scope="settings">Off</string>
+    <string id="st1" scope="settings">Bar under the time</string>
+    <string id="so1_0" scope="settings">Steps</string>
+    <string id="so1_1" scope="settings">Floors</string>
+    <string id="so1_2" scope="settings">Intensity today</string>
+    <string id="so1_3" scope="settings">Intensity week</string>
+    <string id="so1_4" scope="settings">Move bar</string>
+    <string id="so1_5" scope="settings">Body Battery</string>
+    <string id="so1_6" scope="settings">Stress</string>
+    <string id="so1_7" scope="settings">Battery</string>
+    <string id="so1_8" scope="settings">Solar intensity</string>
+    <string id="so1_9" scope="settings">Off</string>
+    <string id="st2" scope="settings">Time format</string>
+    <string id="so2_0" scope="settings">Watch setting</string>
+    <string id="so2_1" scope="settings">24 hours</string>
+    <string id="so2_2" scope="settings">12 hours</string>
+    <string id="st3" scope="settings">Weather update</string>
+    <string id="so3_0" scope="settings">Every 5 min</string>
+    <string id="so3_1" scope="settings">Every 10 min</string>
+    <string id="so3_2" scope="settings">Every 15 min</string>
+    <string id="so3_3" scope="settings">Every 20 min</string>
+    <string id="so3_4" scope="settings">Every 30 min</string>
+    <string id="so3_5" scope="settings">Every 45 min</string>
+    <string id="so3_6" scope="settings">Every 60 min</string>
+    <string id="so3_7" scope="settings">Every 90 min</string>
+    <string id="so3_8" scope="settings">Every 2 hours</string>
+    <string id="st4" scope="settings">Pollen in Context</string>
+    <string id="so4_0" scope="settings">Off</string>
+    <string id="so4_1" scope="settings">On (Europe)</string>
+    <string id="st5" scope="settings">Theme</string>
+    <string id="so5_0" scope="settings">Dark</string>
+    <string id="so5_1" scope="settings">Light</string>
+    <string id="st6" scope="settings">Air quality index</string>
+    <string id="so6_0" scope="settings">Auto</string>
+    <string id="so6_1" scope="settings">European (EU AQI)</string>
+    <string id="so6_2" scope="settings">US (US AQI)</string>
+    <string id="menu0">Circle|Date|Weather now|Pressure|Moon|Steps|Intensity today|Intensity week|Heart rate|Body Battery|Stress|Altitude|Battery days|Solar intensity|Notifications|Seconds (wrist raise)|Off</string>
+    <string id="menu1">Bar under the time|Steps|Floors|Intensity today|Intensity week|Move bar|Body Battery|Stress|Battery|Solar intensity|Off</string>
+    <string id="menu2">Time format|Watch setting|24 hours|12 hours</string>
+    <string id="menu3">Weather update|Every 5 min|Every 10 min|Every 15 min|Every 20 min|Every 30 min|Every 45 min|Every 60 min|Every 90 min|Every 2 hours</string>
+    <string id="menu4">Pollen in Context|Off|On (Europe)</string>
+    <string id="menu5">Theme|Dark|Light</string>
+    <string id="menu6">Air quality index|Auto|European (EU AQI)|US (US AQI)</string>
+</strings>

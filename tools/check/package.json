@@ -1,0 +1,8 @@
+{
+  "name": "context-ahead-checks",
+  "private": true,
+  "description": "Static checks for the Monkey C sources without the Connect IQ SDK: parse, lint, and run the Context engine (transpiled) on the simulation cases and on random data.",
+  "devDependencies": {
+    "@markw65/prettier-plugin-monkeyc": "*"
+  }
+}

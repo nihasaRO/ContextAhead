@@ -1,0 +1,12 @@
+<resources>
+    <fonts>
+        <font id="Time" filename="fonts/time.fnt" />
+        <font id="Word" filename="fonts/word.fnt" />
+        <font id="Small" filename="fonts/small.fnt" />
+        <font id="Big" filename="fonts/big.fnt" />
+        <font id="Tiny" filename="fonts/tiny.fnt" />
+        <font id="Mid" filename="fonts/mid.fnt" />
+        <font id="Med" filename="fonts/med.fnt" />
+        <font id="Icons" filename="fonts/icons.fnt" />
+    </fonts>
+</resources>
